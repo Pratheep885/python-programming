@@ -1,8 +1,8 @@
-N=int(raw_input())
-if(N<=100000):  
-  if(N==0):
+numvarb=int(raw_input())
+if(numvarb<=100000):  
+  if(numvarb==0):
     print("zero")
-  elif(N<0):
+  elif(numvarb<0):
     print("negative")
   else:
     print("positive")
