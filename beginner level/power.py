@@ -1,4 +1,4 @@
-a=int(raw_input())
-b=int(raw_input())
-c=a**b
-print(c)
+m=int(raw_input())
+n=int(raw_input())
+z=m**n
+print(z)
